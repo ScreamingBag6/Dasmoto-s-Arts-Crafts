@@ -1,0 +1,48 @@
+h1 {
+    background-image: url("C:\Studio Code\Assets\pattern.jpeg");
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+
+h2 .brush {
+    background-color: mediumspringgreen;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 .frames {
+    background-color: lightcoral;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 .paint {
+    background-color: skyblue;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+p{
+    font-family: Helvetica;
+    text-align: left;
+}
